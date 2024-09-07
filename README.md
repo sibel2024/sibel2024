@@ -1,59 +1,29 @@
-# Hi there 👋, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Sibel</h1>
+<h3 align="center">A passionate Junior Software Developer from England</h3>
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibel2024&label=Profile%20views&color=0e75b6&style=flat" alt="sibel2024" /> </p>
 
-I am a passionate **Junior Software Developer** with a strong foundation in:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibel2024" alt="sibel2024" /></a> </p>
 
-- **HTML, CSS** for crafting beautiful and responsive user interfaces
-- **JavaScript** for dynamic front-end functionality
-- **SQL** for managing and querying databases
-- **Python** for versatile backend development and scripting
+- 🌱 I’m currently learning **Django**
 
----
+- ⚡ Fun fact **I speak 5 languages**
 
-## 🔧 Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sibel-a41112328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sibel-a41112328" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🚀 Projects
-Here are a few projects that showcase my skills:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibel2024&show_icons=true&locale=en&layout=compact" alt="sibel2024" /></p>
 
-### 1. **Expense Tracker**
-A Python application that tracks your daily expenses and generates reports.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibel2024&show_icons=true&locale=en" alt="sibel2024" /></p>
 
-- **Technologies:** Python, SQLite
-- [View on GitHub](https://github.com/yourusername/Expense-Tracker)
 
-### 2. **Responsive Portfolio Website**
-A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
-- **Technologies:** HTML, CSS, JavaScript
-- [View on GitHub](https://github.com/yourusername/Portfolio)
 
----
 
-## 🌱 Currently Learning
-I'm currently enhancing my knowledge of:
 
-- **React.js** for building interactive web applications
-- **Django** for powerful, scalable web backends
 
----
-
-## 📫 Let's Connect!
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/yourprofile) or [Email](mailto:your.email@example.com). I’m always excited to collaborate on interesting projects.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### Thank you for visiting my profile! 😊
